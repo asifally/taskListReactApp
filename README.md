@@ -6,3 +6,5 @@
 yarn install
 expo start
 ```
+
+![Example Task List](./images/example.jpg)

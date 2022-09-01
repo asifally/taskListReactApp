@@ -7,4 +7,4 @@ yarn install
 expo start
 ```
 
-![Example Task List](./images/example.jpg)
+<img src="images\example.jpg" width="300" height="600">
